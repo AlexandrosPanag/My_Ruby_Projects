@@ -1,5 +1,11 @@
 # My Ruby Projects
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 Ruby is a dynamic programming language with a complex but expressive grammar and
 a core class library with a rich and powerful API. Ruby draws inspiration from Lisp,
@@ -13,12 +19,7 @@ by David Flanagan (Author), Yukihiro Matsumoto (Author) - I highly encourage eve
 
 Official Ruby License can be found here: https://www.ruby-lang.org/en/about/license.txt
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
