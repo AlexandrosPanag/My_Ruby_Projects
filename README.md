@@ -7,6 +7,10 @@ This work is licensed under a
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
+
+About Ruby
+-----
+
 Ruby is a dynamic programming language with a complex but expressive grammar and
 a core class library with a rich and powerful API. Ruby draws inspiration from Lisp,
 Smalltalk, and Perl, but uses a grammar that is easy for C and Java™ programmers to
