@@ -1,0 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
+puts "Write anything: "
+userinput = gets
+puts("You wrote: "+userinput)
