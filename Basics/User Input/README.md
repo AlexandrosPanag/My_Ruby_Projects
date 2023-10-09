@@ -8,3 +8,9 @@ User Input Between Strings
 ---
 
 Example of how to put user input between two strings without any new line issues.
+
+
+Mad Libs Game
+----
+
+Example of taking & pasting user input to create a Mad Libs Game
