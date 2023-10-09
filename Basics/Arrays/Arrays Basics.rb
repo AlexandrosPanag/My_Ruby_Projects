@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 food = Array["Burger", "Pizza", "Suvlaki"] #example of array creation
 puts food[2] #print a specific array element (NOTE: Arrays start from 0)
 puts food[-2] #grab from the back the second element (NOTE: Starts from 1)
