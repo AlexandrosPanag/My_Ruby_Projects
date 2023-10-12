@@ -14,3 +14,9 @@ Writing into a file
 ---
 
 A basic example of how we can write into a file.
+
+
+Overwriting a file
+----
+
+A simple method of how a file can be overwritten.
