@@ -20,3 +20,9 @@ Overwriting a file
 ----
 
 A simple method of how a file can be overwritten.
+
+
+Creating a new file
+---
+
+A simple way to create a new file.
