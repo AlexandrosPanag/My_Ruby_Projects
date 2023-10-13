@@ -14,3 +14,9 @@ Class Methods
 ---
 
 Example of how a class can be used with a method.
+
+
+Inheritance
+----
+
+Example of how Inheritance works to inherit attributes from a another class.
