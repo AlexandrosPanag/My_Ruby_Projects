@@ -9,6 +9,10 @@ Class Initialization
 
 An example of how a class can be initialized.
 
+Class Constructors Destructors
+---
+
+A basic example of how constructors and destructors are made in Ruby.
 
 Class Methods
 ---
